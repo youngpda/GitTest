@@ -30,7 +30,7 @@ public class GitTestView extends ViewPart {
 
 		@Override
 		public Image getImage(Object obj) {
-			return workbench.getSharedImages().getImage(ISharedImages.IMG_OBJ_ELEMENT);
+			return null; //workbench.getSharedImages().getImage(ISharedImages.IMG_OBJ_ELEMENT);
 		}
 
 	}
