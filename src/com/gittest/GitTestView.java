@@ -17,7 +17,7 @@ import org.eclipse.ui.part.ViewPart;
 
 public class GitTestView extends ViewPart {
 	public static final String ID = "GitTest.view";
-
+//zzzzzzzzzzzzzzzzz
 	@Inject IWorkbench workbench;
 	
 	private TableViewer viewer;
