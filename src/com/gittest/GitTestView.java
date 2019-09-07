@@ -33,6 +33,7 @@ public class GitTestView extends ViewPart {
 			return null; //workbench.getSharedImages().getImage(ISharedImages.IMG_OBJ_ELEMENT);
 			///--youngpda & minsu
 			//@@@@@@@@@@@@@@
+			//333333333333333333
 		}
 
 	}
@@ -57,6 +58,8 @@ public class GitTestView extends ViewPart {
 		//KKKKKK
 		
 		//여길 고처라
+		
+		//여기 충돌
 	}
 
 
