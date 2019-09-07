@@ -9,12 +9,8 @@ import org.eclipse.ui.application.WorkbenchWindowAdvisor;
 public class ApplicationWorkbenchWindowAdvisor extends WorkbenchWindowAdvisor {
 
 	public ApplicationWorkbenchWindowAdvisor(IWorkbenchWindowConfigurer configurer) {
-		super(configurer);//1111111111\
-	//22222
-		///33
-		//44444
-		//55555
-		///66666
+		super(configurer);
+		//°¡³ª´Ù
 	}
 	
 	@Override
