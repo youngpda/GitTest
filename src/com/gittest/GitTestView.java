@@ -31,6 +31,7 @@ public class GitTestView extends ViewPart {
 		@Override
 		public Image getImage(Object obj) {
 			return null;  //return null;
+			//hi !!!!!
 		}
 
 	}
