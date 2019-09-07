@@ -55,6 +55,8 @@ public class GitTestView extends ViewPart {
 		//Test
 		//Git 
 		//KKKKKK
+		
+		//여길 고처라
 	}
 
 
