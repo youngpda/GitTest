@@ -51,6 +51,7 @@ public class GitTestView extends ViewPart {
 		viewer.setInput(createInitialDataModel());
 		
 		//Test
+		//Git 
 	}
 
 
