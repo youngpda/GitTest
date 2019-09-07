@@ -52,7 +52,8 @@ public class GitTestView extends ViewPart {
 		
 		// Provide the input to the ContentProvider
 		viewer.setInput(createInitialDataModel());
-		//또다른 주석
+		//hi my name is babo
+		//what is you name
 	}
 
 
