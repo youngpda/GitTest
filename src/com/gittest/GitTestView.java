@@ -31,7 +31,7 @@ public class GitTestView extends ViewPart {
 		@Override
 		public Image getImage(Object obj) {
 			return null; //workbench.getSharedImages().getImage(ISharedImages.IMG_OBJ_ELEMENT);
-			///--youngpda
+			///--youngpda & minsu
 		}
 
 	}
