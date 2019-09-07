@@ -56,6 +56,8 @@ public class GitTestView extends ViewPart {
 		//Test
 		//Git 
 		//KKKKKK
+		
+		//여기 충돌
 	}
 
 
