@@ -14,6 +14,7 @@ public class ApplicationWorkbenchWindowAdvisor extends WorkbenchWindowAdvisor {
 		///33
 		//44444
 		//55555
+		///66666
 	}
 	
 	@Override
