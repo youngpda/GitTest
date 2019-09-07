@@ -9,8 +9,7 @@ import org.eclipse.ui.application.WorkbenchWindowAdvisor;
 public class ApplicationWorkbenchWindowAdvisor extends WorkbenchWindowAdvisor {
 
 	public ApplicationWorkbenchWindowAdvisor(IWorkbenchWindowConfigurer configurer) {
-		super(configurer);//1111111111
-		//////222222222222222
+		super(configurer);/////xxxxxxxxxxx
 	}
 	
 	@Override
