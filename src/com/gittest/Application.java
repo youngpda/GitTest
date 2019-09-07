@@ -14,7 +14,7 @@ public class Application implements IApplication {
 	@Override
 	public Object start(IApplicationContext context) {
 		Display display = PlatformUI.createDisplay();
-		try {
+		try {///////////////////////
 			int returnCode = PlatformUI.createAndRunWorkbench(display, new ApplicationWorkbenchAdvisor());
 			if (returnCode == PlatformUI.RETURN_RESTART) {
 				return IApplication.EXIT_RESTART;
