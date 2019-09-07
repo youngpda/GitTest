@@ -10,8 +10,6 @@ public class ApplicationWorkbenchWindowAdvisor extends WorkbenchWindowAdvisor {
 
 	public ApplicationWorkbenchWindowAdvisor(IWorkbenchWindowConfigurer configurer) {
 		super(configurer);
-		//aaaaaaaaaaaa
-		/////xxxxxxxxxxx
 	}
 	
 	@Override
