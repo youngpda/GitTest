@@ -32,6 +32,7 @@ public class GitTestView extends ViewPart {
 		public Image getImage(Object obj) {
 			return null; //workbench.getSharedImages().getImage(ISharedImages.IMG_OBJ_ELEMENT);
 			///--youngpda
+			//@@@@@@@@@@@@@@
 		}
 
 	}
