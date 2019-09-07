@@ -54,6 +54,7 @@ public class GitTestView extends ViewPart {
 		viewer.setInput(createInitialDataModel());
 		//hi my name is babo
 		//what is you name
+		//Hi!!
 	}
 
 
