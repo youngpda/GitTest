@@ -60,6 +60,7 @@ public class GitTestView extends ViewPart {
 		//여길 고처라
 		
 		//여기 충돌
+		//또다른 주석
 	}
 
 
